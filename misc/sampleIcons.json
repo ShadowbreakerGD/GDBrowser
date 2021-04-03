@@ -9,6 +9,7 @@
     [ "Creeper", 42, 20, 15, 0 ],
     [ "Companion Cube", 47, 12, 19, 0 ],
     [ "Missing Texture", 23, 7, 15, 0 ],
+    [ "Lenny", 62, 12, 12, 0 ], 
 
     [ "AdvyStyles", 25, 12, 3, 0 ],
     [ "AeonAir", 109, 29, 3, 0 ],
